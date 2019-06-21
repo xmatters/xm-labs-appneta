@@ -12,10 +12,10 @@ https://www.appneta.com/why-appneta/
 2. Events are triggered in AppNeta
 3. The APM event integration is configured to detect one or all of the following types of events:
 
-Sequencer events - These are notifications that APM lost or reestablished connectivity with a monitoring point.
-Service quality events - These are notifications that an alert condition was violated or cleared.
-Web application events - These are notifications that a web path alert profile was violated or cleared
-Network change events - These are notifications that alert you to changes in the sequence of networks (BGP Autonomous Systems) on the path between a source and a target.
+- Sequencer events - These are notifications that APM lost or reestablished connectivity with a monitoring point.
+- Service quality events - These are notifications that an alert condition was violated or cleared.
+- Web application events - These are notifications that a web path alert profile was violated or cleared
+- Network change events - These are notifications that alert you to changes in the sequence of networks (BGP Autonomous Systems) on the path between a source and a target.
 
 4. xMatters triggers are setup through a HTTP POST via the Observer API. It sends the content of the event as a JSON payload into xMatters inbound integration
 
