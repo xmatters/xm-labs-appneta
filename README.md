@@ -4,7 +4,9 @@ AppNeta Performance Manager delivers actionable insight into real-time applicati
 https://www.appneta.com/why-appneta/
 
 <kbd>
-  <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+<a href="https://support.xmatters.com/hc/en-us/community/topics">
+   <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+</a>
 </kbd>
 
 # How it works:
@@ -24,10 +26,11 @@ https://www.appneta.com/why-appneta/
 5b: Escalate: escalates to the next person on call
 
 # Pre-Requisites:
-AppNeta account
-xMatters account
-Files
-AppNeta.zip - xMatters communication plan needed to accept data in xMatters from AppNeta.
+* AppNeta account
+* xMatters account
+
+# Files
+1. [AppNeta.zip](AppNeta.zip) - xMatters workflow needed to accept data in xMatters from AppNeta.
 
 # Installation:
 
